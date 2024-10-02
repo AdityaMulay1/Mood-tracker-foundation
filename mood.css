@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#mood-select {
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#log-mood, #delete-logs {
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+#mood-log {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
